@@ -1,5 +1,6 @@
 import RPi.GPIO as GPIO
 
+#pull수정
 # GPIO 핀 설정
 left_motor_pin = 17
 right_motor_pin = 18
